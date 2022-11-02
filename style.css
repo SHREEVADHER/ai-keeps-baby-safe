@@ -1,0 +1,23 @@
+ #status{
+     background-color:skyblue;
+ }
+ #yo{
+     background-color: plum;
+ }
+ #hi{
+     background-color: pink;
+ }
+
+ body{
+ -webkit-text-size-adjust: 100%;
+ -webkit-tap-highlight-color: rgba(0,0,0,0);
+ background-image: url("https://i.pinimg.com/originals/f5/93/9a/f5939ad0a61c15ee7a0a645bc2c7e3c7.jpg");
+ box-sizing: border-box;
+ margin: 0;
+ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-size: 14px;
+ line-height: 1.42857143;
+ color: #333;
+ background-color: #fff;
+ background-size: cover;
+ }
